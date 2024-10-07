@@ -77,7 +77,13 @@ Then it's still a perfect program for you ;)
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-Here are some example screenshots
+Here are some example screenshots</br>
+![1](https://github.com/user-attachments/assets/3b7c0fb8-1316-4a21-bc22-f2e6f5334c61)
+</br>
+![2](https://github.com/user-attachments/assets/5d793546-af3a-4b25-94e7-a9918fae0014)
+</br>
+![3](https://github.com/user-attachments/assets/39a173c2-9b34-46ed-9b80-802db9b0149c)
+
 
 <!-- GETTING STARTED -->
 ## Getting Started
